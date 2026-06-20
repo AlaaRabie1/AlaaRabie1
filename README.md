@@ -11,7 +11,7 @@ I'm a Computer Science student passionate about building software and exploring 
 * ⚡ Fun fact: I love turning ideas into real projects and learning through hands-on experience.
 
 <p align="center">
-  <img src="./coding.gif" width="400"/>
+  <img src="./chilling.gif"/>
 </p>
 
 ---
