@@ -16,22 +16,79 @@ I'm a Computer Science student passionate about building software and exploring 
 
 #### Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs)
+![Scala](https://skillicons.dev/icons?i=scala)
+![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
 #### Web Development
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Django](https://skillicons.dev/icons?i=django)
+![Flask](https://skillicons.dev/icons?i=flask)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+#### AI / Machine Learning
+
+![Python](https://skillicons.dev/icons?i=python)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
+
+**Libraries & Techniques:**
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Deep Learning
+- Computer Vision
+- Diffusion Models
+- PCA
+- K-Means
+- Gaussian Mixture Models (GMM)
 
 #### Databases
 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+#### Game Development & Graphics
+
+![C++](https://skillicons.dev/icons?i=cpp)
+![CS](https://skillicons.dev/icons?i=cs)
+![Blender](https://skillicons.dev/icons?i=blender)
+
+**Technologies:**
+- SFML
+- Computer Graphics
+- 3D Modeling
+- Animation
+- Rendering
+
+#### Operating Systems & Systems Programming
+
+![C](https://skillicons.dev/icons?i=c)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+**Concepts:**
+- Kernel Development
+- System Calls
+- Memory Management
+- Process Synchronization
+- Scheduling Algorithms
+- Dynamic Memory Allocation
 
 #### Tools & Technologies
 
@@ -39,6 +96,12 @@ I'm a Computer Science student passionate about building software and exploring 
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
+
+**Other Tools:**
+- Kaggle API
+- Jupyter Notebook
+- LaTeX
+- FOS Educational OS
 
 ---
 
