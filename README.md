@@ -10,7 +10,9 @@ I'm a Computer Science student passionate about building software and exploring 
 * 📚 Always curious about new technologies and best practices.
 * ⚡ Fun fact: I love turning ideas into real projects and learning through hands-on experience.
 
-![Chilling GIF](./chilling.gif)
+<p align="center">
+  <img src="./chilling.gif" alt="Chilling GIF" width="400">
+</p>
 
 ---
 
