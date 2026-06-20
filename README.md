@@ -59,18 +59,10 @@ I'm a Computer Science student passionate about building software and exploring 
 
 ---
 
-### 🏆 Projects
-
-* 💡 AI & Machine Learning Projects
-* 🌐 Full Stack Web Applications
-* 🔐 Security-related Experiments
-* 🎮 Game Development Projects
-
----
-
 ### 📫 Connect With Me
 
 * LinkedIn: Your LinkedIn Profile
-* Email: [[your.email@example.com](https://www.linkedin.com/in/alaa-rabiee/)]
+* LinkedIn: [[your.email@example.com](https://www.linkedin.com/in/alaa-rabiee/)]
+* Email: [[(alaa.rabie2004@gmail.com)]
 
 Thanks for visiting my profile! 🚀
