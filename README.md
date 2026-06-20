@@ -61,8 +61,7 @@ I'm a Computer Science student passionate about building software and exploring 
 
 ### 📫 Connect With Me
 
-* LinkedIn: Your LinkedIn Profile
-* LinkedIn: [[your.email@example.com](https://www.linkedin.com/in/alaa-rabiee/)]
-* Email: [[(alaa.rabie2004@gmail.com)]
+* LinkedIn: [https://www.linkedin.com/in/alaa-rabiee/]
+* Email: [alaa.rabie2004@gmail.com]
 
 Thanks for visiting my profile! 🚀
