@@ -66,17 +66,20 @@ I'm a Computer Science student passionate about building software and exploring 
 
 #### Game Development & Graphics
 
+![Unity](https://skillicons.dev/icons?i=unity)
 ![C++](https://skillicons.dev/icons?i=cpp)
-![CS](https://skillicons.dev/icons?i=cs)
+![C#](https://skillicons.dev/icons?i=cs)
 ![Blender](https://skillicons.dev/icons?i=blender)
 
 **Technologies:**
-- SFML
+- Unity Game Engine
 - Computer Graphics
 - 3D Modeling
 - Animation
 - Rendering
-
+- Game Development
+- SFML
+  
 #### Operating Systems & Systems Programming
 
 ![C](https://skillicons.dev/icons?i=c)
