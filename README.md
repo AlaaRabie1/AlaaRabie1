@@ -127,4 +127,4 @@ I'm a Computer Science student passionate about building software and exploring 
 * LinkedIn: [https://www.linkedin.com/in/alaa-rabiee/]
 * Email: [alaa.rabie2004@gmail.com]
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile! 
